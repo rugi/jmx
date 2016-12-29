@@ -1,0 +1,5 @@
+Substituye este archivo por:
+wljmxclient.jar
+
+Ubicado en:
+	ORACLE_HOME\wlserver\server\lib\wljmxclient.jar
