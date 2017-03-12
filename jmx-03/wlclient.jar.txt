@@ -1,0 +1,5 @@
+Substituye este archivo por:
+wlclient.jar
+
+Ubicado en:
+	ORACLE_HOME\wlserver\server\lib\wlclient.jar

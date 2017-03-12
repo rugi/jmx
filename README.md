@@ -5,3 +5,5 @@ Ejercicios sobre JMX.
     *  jmx-01/
 * JMX. Java Management Extensions. Parte 2: Weblogic y sus MBeans Servers.
     *  jmx-02/
+* JMX. Java Management Extensions. Parte 3: JMX, Weblogic y Miltitenant.
+    *  jmx-03/
