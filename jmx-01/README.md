@@ -4,6 +4,7 @@ Código utilizado en el artículo:
 JMX, Java Management Extensions. La guía perdida. Parte 1. Los fundamentos.
 
 Por Isaac Ruiz
+
 Publicado en Diciembre 2016
 
 URL:

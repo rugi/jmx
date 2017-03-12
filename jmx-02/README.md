@@ -4,6 +4,7 @@ Código utilizado en el artículo:
 JMX. La guía perdida. Parte 2: Weblogic y sus MBeans Servers.
 
 Por Isaac Ruiz
+
 Publicado en Enero 2017
 
 URL:
