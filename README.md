@@ -7,5 +7,5 @@ Ejercicios sobre JMX expuestos en una serie de artículos publicados en Oracle Te
     *  jmx-02/
 * JMX. Java Management Extensions. Parte 3: JMX, Weblogic y Multitenant.
     *  jmx-03/
-* JMX_javamexico.ppt
+* Presentacion_Meetup_JVMMX_27032017.pdf
     *  Presentación en java México. 27 de Marzo del 2013.
